@@ -36,16 +36,7 @@ This document outlines the analysis performed on a DataFrame with the following 
 
 ## How to View the Analysis
 
-To view the analyses and diagrams:
-
-1. **Open the Jupyter Notebook:**
-   - The Jupyter Notebook containing these analyses is available in the repository. 
-
-2. **Run the Notebook:**
-   - Clone the repository and open the notebook using Jupyter.
-
-3. **Review the Results:**
-   - Follow the notebook cells to see the diagrams and results.
+[View Analysis Report](analysis.md)
 
 ## Conclusion
 
