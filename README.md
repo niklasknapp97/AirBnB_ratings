@@ -64,13 +64,10 @@ The goal of this report is to create an understanding for the the reviews of mov
 
 **Diagram:** A box plot showing the distribution of review lengths.
 
-<<<<<<< HEAD
 ## View the Analysis
 
 [View Analysis Report](analysis.md)
 
-=======
->>>>>>> 40a0df3 (Fixes)
 ## Conclusion
 
 These analyses provide insights into the distribution and characteristics of the reviews dataset. Use the diagrams to gain a deeper understanding of review patterns and trends.
