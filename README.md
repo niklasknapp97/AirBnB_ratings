@@ -1,6 +1,36 @@
+![Cinema](data/reviews.csv)
+
 # Data Analysis with Diagrams
 
 This document outlines the analysis performed on a DataFrame with the following columns: `listing_id`, `id`, `date`, `reviewer_id`, `reviewer_name`, `comments`. The analyses include visualizations to help understand the data better.
+
+## Motivation
+
+The goal of this report is to create an understanding for the the reviews of movies.
+
+## View the Analysis
+
+[View Analysis Report](analysis.md)
+
+## Libraries used
+
+* Pandas
+* Matplotlib
+* Seaborn
+* Wordcloud
+
+## Files
+
+* analysis_files/
+  * exported pictures of the diagrams
+* data/
+  * reviews.csv: The CSV-file containing the data
+* img/
+  * images
+* analysis.jpynb: The Jupyter notebook containing the code
+* anaysis.md: The markdown file exported from the jupyter notebook
+* reviews.csv:
+
 
 ## Data Analysis
 
@@ -34,10 +64,13 @@ This document outlines the analysis performed on a DataFrame with the following 
 
 **Diagram:** A box plot showing the distribution of review lengths.
 
+<<<<<<< HEAD
 ## View the Analysis
 
 [View Analysis Report](analysis.md)
 
+=======
+>>>>>>> 40a0df3 (Fixes)
 ## Conclusion
 
 These analyses provide insights into the distribution and characteristics of the reviews dataset. Use the diagrams to gain a deeper understanding of review patterns and trends.
