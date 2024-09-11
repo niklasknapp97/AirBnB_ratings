@@ -40,7 +40,7 @@ The goal of this report is to create an understanding for the the reviews of Air
 
 **Diagram:**
 
-![png](analysis_files/analysis_3_0.png)
+![png](analysis_files/analysis_9_0.png)
 
 **Findings:** This gives a good insight how many reviews there are per listing.
 
@@ -50,7 +50,7 @@ The goal of this report is to create an understanding for the the reviews of Air
 
 **Diagram:**
 
-![png](analysis_files/analysis_5_0.png)
+![png](analysis_files/analysis_11_0.png)
 
 **Finding:** The number of reviews has increased drastically over the last years and there is a peak of reviews towards the end of each year.
 
@@ -60,7 +60,7 @@ The goal of this report is to create an understanding for the the reviews of Air
 
 **Diagram:**
 
-![png](analysis_files/analysis_7_0.png)
+![png](analysis_files/analysis_13_0.png)
 
 **Finding:** The top reviewer has more than double the reviews of the number ten reviewer.
 
@@ -70,7 +70,7 @@ The goal of this report is to create an understanding for the the reviews of Air
 
 **Diagram:**
 
-![png](analysis_files/analysis_9_0.png)
+![png](analysis_files/analysis_15_0.png)
 
 **Finding:** The by far most listings have very few reviews, only a few listings have lots of reviews.
 
@@ -80,7 +80,7 @@ The goal of this report is to create an understanding for the the reviews of Air
 
 **Diagram:**
 
-![png](analysis_files/analysis_11_0.png)
+![png](analysis_files/analysis_17_0.png)
 
 ## View the Analysis
 
