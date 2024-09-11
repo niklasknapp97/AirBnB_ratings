@@ -82,11 +82,11 @@ The goal of this report is to create an understanding for the the reviews of Air
 
 ![png](analysis_files/analysis_17_0.png)
 
+**Findings:** The most often used words don't have anything in common except that they are related to travel, which is kind of expected. The most often visited city in this dataset seems to be Seattle.
+
 ## View the Analysis
 
 [View Analysis Report](analysis.md)
-
-**Findings:** The most often used words don't have anything in common except that they are related to travel, which is kind of expected. The most often visited city in this dataset seems to be Seattle.
 
 ## Conclusion
 
