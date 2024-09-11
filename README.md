@@ -1,4 +1,4 @@
-![Cinema](data/reviews.csv)
+![Cinema](img/title_image.png)
 
 # Data Analysis with Diagrams
 
