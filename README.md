@@ -1,6 +1,6 @@
 ![Cinema](img/title_image.png)
 
-# Data Analysis with Diagrams
+# Data Analysis of AirBnB reviews
 
 This document outlines the analysis performed on a DataFrame with reviews on Airbnb listings. It contains the following columns: `listing_id`, `id`, `date`, `reviewer_id`, `reviewer_name`, `comments`. The analyses include visualizations to help understand the data better.
 
