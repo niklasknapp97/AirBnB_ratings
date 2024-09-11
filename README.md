@@ -34,7 +34,7 @@ This document outlines the analysis performed on a DataFrame with the following 
 
 **Diagram:** A box plot showing the distribution of review lengths.
 
-## How to View the Analysis
+## View the Analysis
 
 [View Analysis Report](analysis.md)
 
