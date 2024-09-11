@@ -2,11 +2,11 @@
 
 # Data Analysis with Diagrams
 
-This document outlines the analysis performed on a DataFrame with the following columns: `listing_id`, `id`, `date`, `reviewer_id`, `reviewer_name`, `comments`. The analyses include visualizations to help understand the data better.
+This document outlines the analysis performed on a DataFrame with reviews on Airbnb listings. It contains the following columns: `listing_id`, `id`, `date`, `reviewer_id`, `reviewer_name`, `comments`. The analyses include visualizations to help understand the data better.
 
 ## Motivation
 
-The goal of this report is to create an understanding for the the reviews of movies.
+The goal of this report is to create an understanding for the the reviews of Airbnb listings.
 
 ## View the Analysis
 
@@ -38,35 +38,55 @@ The goal of this report is to create an understanding for the the reviews of mov
 
 **Objective:** Visualize the number of reviews each listing has received.
 
-**Diagram:** A bar chart showing the count of reviews per listing.
+**Diagram:**
 
-### 2. Review Counts by Reviewer
+![png](analysis_files/analysis_3_0.png)
 
-**Objective:** Determine the distribution of the number of reviews written by each reviewer.
+**Findings:** This gives a good insight how many reviews there are per listing.
 
-**Diagram:** A histogram illustrating the frequency of review counts per reviewer.
+### 2. Distribution of Reviews over time
 
-### 3. Temporal Distribution of Reviews
+**Objective:** Visualize the number of reviews over time
+
+**Diagram:**
+
+![png](analysis_files/analysis_5_0.png)
+
+**Finding:** The number of reviews has increased drastically over the last years and there is a peak of reviews towards the end of each year.
+
+### 3. Review Counts by Reviewer
+
+**Objective:** Determine the distribution of the number of reviews written by each of the top ten reviewers.
+
+**Diagram:**
+
+![png](analysis_files/analysis_7_0.png)
+
+**Finding:** The top reviewer has more than double the reviews of the number ten reviewer.
+
+### 4. Temporal Distribution of Reviews
 
 **Objective:** Analyze the distribution of reviews over time.
 
-**Diagram:** A line chart displaying the number of reviews per month or year.
+**Diagram:**
 
-### 4. Common Words in Comments
+![png](analysis_files/analysis_9_0.png)
+
+**Finding:** The by far most listings have very few reviews, only a few listings have lots of reviews.
+
+### 5. Common Words in Comments
 
 **Objective:** Identify the most frequently occurring words in the comments.
 
-**Diagram:** A word cloud showcasing the most common words used in the comments.
+**Diagram:**
 
-### 5. Review Length Analysis
-
-**Objective:** Examine the length of reviews to identify trends or patterns.
-
-**Diagram:** A box plot showing the distribution of review lengths.
+![png](analysis_files/analysis_11_0.png)
 
 ## View the Analysis
 
 [View Analysis Report](analysis.md)
+
+**Findings:** The most often used words don't have anything in common except that they are related to travel, which is kind of expected. The most often visited city in this dataset seems to be Seattle.
 
 ## Conclusion
 
